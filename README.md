@@ -15,7 +15,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/Abdymambetov"><img src="https://github-readme-stats.vercel.app/api?username=Abdymambetov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Abdymambetov's GitHub stats" /></a>  
   <a href="http://www.github.com/Abdymambetov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdymambetov&stroke=64748b&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>  
-  <a href="https://github.com/Abdymambetov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdymambetov&langs_count=10&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ 
+
 
  ![LeetCode Stats](https://leetcode.card.workers.dev/mederabdymambetov8?theme=dark&font=baloo&extension=activity)
 
